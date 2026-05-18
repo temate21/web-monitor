@@ -15,7 +15,7 @@ app = Flask(__name__)
 # CONFIGURACIÓN - EDITA ESTO CON TUS DATOS
 # =====================================================
 
-MONITORED_URLS = [ "https://tu-sitio-1.com", "https://tu-sitio-2.com", "https://tu-sitio-3.com" ]
+MONITORED_URLS = [ "https://natclinic.com" ]
 
 # ===== TELEGRAM (GRATIS) =====
 TELEGRAM_BOT_TOKEN = "8953531700:AAHDK6cFx1LE5M8O8B5LfGgfVuj2L8QoTIk"  # Obten en @BotFather
